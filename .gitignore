@@ -1,0 +1,15 @@
+# 抖音日报 - GitHub上传用
+# 只上传必要的文件，忽略本地配置和临时文件
+
+__pycache__/
+*.pyc
+logs/
+reports/
+config.py
+set_token.py
+create_task.ps1
+setup_scheduler.ps1
+test_*.py
+run_daily.bat
+install_task.bat
+update_data.ps1
