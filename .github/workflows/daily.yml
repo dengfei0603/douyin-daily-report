@@ -1,10 +1,13 @@
-name: 抖音达人日报
+﻿name: 抖音达人日报
 
 on:
   schedule:
-    # 每天早上8:00 (北京时间 = UTC 0:00)
-    - cron: "0 0 * * *"
-  workflow_dispatch:  # 支持手动触发
+    - cron: "0 0 * * *"       # 每天8:00北京
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   daily-report:
@@ -20,14 +23,13 @@ jobs:
         python-version: "3.11"
     
     - name: 安装依赖
-      run: |
-        pip install requests
+      run: pip install requests PyNaCl
     
-    - name: 运行日报
+    - name: 自动采集+生成日报
       env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-      run: |
-        python daily_report_github.py
+      run: python auto_daily.py
     
     - name: 上传日报HTML
       uses: actions/upload-artifact@v4
