@@ -3,6 +3,7 @@ name: ??????
 on:
   schedule:
     - cron: "0 0 * * *"       # ??8:00??
+    - cron: "0 1 * * *"       # ??: 9:00????
   workflow_dispatch:
 
 permissions:
