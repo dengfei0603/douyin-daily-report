@@ -70,6 +70,11 @@ def main():
         content += f"\U0001f4f9 \u77ed\u89c6\u9891 {ch.get('video', '-')}  \U0001f4e1 \u76f4\u64ad {ch.get('live', '-')}  \U0001f6d2 \u5546\u54c1\u5361 {ch.get('card', '-')}\n"
         videos = p.get("video_links", [])
         if videos and videos[0].get("url"):
+            if videos[0].get("script"):
+                lines = videos[0]["script"].split("\n")
+                for line in lines[:4]:
+                    if line.strip():
+                        content += f"> {line.strip()}\n"
             content += f"\U0001f517 {videos[0]['url']}\n"
         content += "\n"
 
