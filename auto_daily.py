@@ -1,5 +1,5 @@
 """抖音日报 - 7天7品类循环版"""
-import os, sys, json, re, base64
+import os, sys, json, re, base64, requests
 from datetime import datetime, timezone
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
@@ -21,34 +21,27 @@ CATEGORIES = [
 ]
 
 def load_cache():
-    import requests
     try:
         resp = requests.get(f"{API}/contents/cache/products.json", headers=HEADERS, timeout=15)
-        print(f"Cache HTTP: {resp.status_code}")
         if resp.status_code == 200:
-            data = resp.json()
-            raw = base64.b64decode(data["content"])
-            text = raw.decode("utf-8")
-            obj = json.loads(text)
-            cats = obj.get("categories", {})
-            print(f"Categories found: {list(cats.keys())}")
-            return obj
-    except Exception as e:
-        print(f"Cache error: {e}")
+            return json.loads(base64.b64decode(resp.json()["content"]).decode("utf-8"))
+    except:
+        pass
     return {"categories": {}, "timestamp": ""}
 
 def main():
     weekday = datetime.now(timezone.utc).weekday()
     today_cat = CATEGORIES[weekday]
-    print(f"Today: weekday={weekday}, label={today_cat['label']}")
+    print(f"🚀 抖音日报 {datetime.now().strftime('%Y-%m-%d %H:%M')} | {today_cat['name']} {today_cat['label']}")
+    print("=" * 40)
 
     cache = load_cache()
     cat_data = cache.get("categories", {}).get(today_cat["label"], [])
-    print(f"cat_data len: {len(cat_data)}")
-
     if not cat_data:
-        print("No data, will exit")
+        print(f"❌ {today_cat['label']} 无数据")
         return 1
+
+    print(f"📦 {today_cat['icon']} {today_cat['label']}: {len(cat_data)} 个商品")
 
     def score(p):
         s = 0
@@ -66,7 +59,7 @@ def main():
 
     cat_data.sort(key=score, reverse=True)
     picked = cat_data[:3]
-    print(f"Picked: {len(picked)}")
+    print(f"🎯 精选 {len(picked)} 个")
 
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     content = f"**抖音达人日报**\n{today_str} {today_cat['name']} | {today_cat['icon']} {today_cat['label']}\n7天7品类循环\n" + "━" * 15 + "\n\n"
@@ -90,7 +83,9 @@ def main():
             "content": content,
             "template": "markdown"
         })
-        print(f"PushPlus: {resp.status_code} {resp.text[:80]}")
+        print(f"PushPlus: {resp.status_code} {'OK' if resp.status_code == 200 else 'FAIL'}")
+    else:
+        print("No PUSHPLUS_TOKEN set")
 
 if __name__ == "__main__":
     main()
