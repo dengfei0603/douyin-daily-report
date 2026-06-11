@@ -1,613 +1,998 @@
 {
-  "timestamp": "2026-06-11T01:00:00",
+  "timestamp": "2026-06-11T08:00:00",
   "categories": {
     "日用百货": [
       {
-        "name": "【倾凡】多功能清洁剂厨房油烟机灶台去重油污全屋清洁去油污净除垢",
-        "commission": "38%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "88.48%",
-          "live": "3.66%",
-          "card": "7.86%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156841359846",
-            "author": "慧子家的后婆婆",
-            "desc": ""
-          }
-        ]
-      },
-      {
         "name": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
-        "commission": "33%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "72%",
-          "live": "15%",
-          "card": "13%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7644934960135581925",
-            "author": "兴兴优选",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "康思嘉管道疏通粉强效分解厨房管道油污马桶堵塞地漏除臭去飞虫",
-        "commission": "30%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "85%",
-          "live": "8%",
-          "card": "7%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7643849203841787188",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "【抢跑618】沫檬除螨喷雾100%灭螨除菌免洗晒家用宿舍床上宠物安全",
-        "commission": "30%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "76%",
-          "live": "12%",
-          "card": "12%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7645502910342810907",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "优洁士小白鞋清洗神器一擦白去污增白去黄去氧化清洁护理剂洗鞋",
-        "commission": "35%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "82%",
-          "live": "10%",
-          "card": "8%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7646123456789012345",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "收纳整理": [
-      {
-        "name": "家用抽屉式收纳箱衣柜整理盒塑料储物盒衣物分格收纳盒多功能",
-        "commission": "25%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "65%",
-          "live": "20%",
-          "card": "15%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000001",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "真空压缩袋收纳袋衣物棉被抽气压缩节省空间搬家整理神器",
-        "commission": "28%",
-        "monthly_sales": "5w+",
+        "commission": "蝉选 33%  公开 20%",
+        "monthly_sales": "5w~10w",
+        "monthly_revenue": "14,413",
+        "yearly_sales": "10w+ 1,752,417",
+        "conversion_rate": "0%~5%",
         "sales_channel": {
           "video": "70%",
-          "live": "18%",
-          "card": "12%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000002",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "厨房置物架落地多层收纳架蔬菜水果储物架家用多功能货架",
-        "commission": "22%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "60%",
-          "live": "25%",
-          "card": "15%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000003",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "冰箱收纳盒保鲜盒食品级塑料水果蔬菜盒带盖防串味可叠加",
-        "commission": "26%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "68%",
           "live": "20%",
-          "card": "12%"
+          "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000004",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "数据线收纳盒桌面理线盒电线收纳盒插座遮盖盒充电器整理",
-        "commission": "30%",
-        "monthly_sales": "1w+",
+        "name": "老管家杀蟑饵剂厨房家用室内除小强专用学生宿舍灭蟑螂杀虫剂神器",
+        "commission": "相似高佣 38%  公开 10%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "8,409",
+        "yearly_sales": "10w+ 1,087,124",
+        "conversion_rate": "30%+",
         "sales_channel": {
           "video": "75%",
           "live": "15%",
           "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000005",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "厨房好物": [
-      {
-        "name": "多功能切菜器厨房切丝切片神器家用刨丝器切片机蔬菜切菜工具",
-        "commission": "28%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "72%",
-          "live": "18%",
-          "card": "10%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000006",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "不粘锅炒锅家用炒菜锅无油烟平底锅电磁炉通用燃气灶适用",
-        "commission": "20%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "55%",
-          "live": "30%",
-          "card": "15%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000007",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "一次性厨房纸巾吸油纸厨房用纸家用大卷擦手纸",
-        "commission": "25%",
-        "monthly_sales": "10w+",
+        "name": "2026新款魔术扫把第四代刮水扫地拖地神器家用干湿两用双面地刮",
+        "commission": "49%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "7,163",
+        "yearly_sales": "5w~10w 10,989",
+        "conversion_rate": "30%+",
         "sales_channel": {
           "video": "80%",
-          "live": "10%",
-          "card": "10%"
+          "live": "12%",
+          "card": "8%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000008",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "家用擀面杖大号不粘擀面杖饺子皮神器面食工具厨房烘焙",
-        "commission": "32%",
-        "monthly_sales": "1w+",
+        "name": "【2瓶装】新升级冰箱除冰剂融冰霜防冰化冰家用冰箱冰柜清洁T1",
+        "commission": "40%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "6,436",
+        "yearly_sales": "10w+ 26,543",
+        "conversion_rate": "25%~30%",
         "sales_channel": {
           "video": "78%",
           "live": "12%",
           "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000009",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "不锈钢保温饭盒多层带提手便当盒学生上班族餐盒",
-        "commission": "24%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "62%",
-          "live": "22%",
-          "card": "16%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000010",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "个护清洁": [
-      {
-        "name": "氨基酸洁面乳温和深层清洁洗面奶女男士通用控油去黑头",
-        "commission": "35%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "68%",
-          "live": "22%",
-          "card": "10%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000011",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "洗发水控油去屑止痒蓬松女男士氨基酸洗发露官方正品",
-        "commission": "30%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "60%",
-          "live": "28%",
-          "card": "12%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000012",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "身体乳女全身滋润保湿补水美白持久留香嫩肤烟酰胺",
-        "commission": "35%",
-        "monthly_sales": "5w+",
+        "name": "鸡奶奶呋虫胺杀虫剂杀虫喷射剂4瓶2个喷头hs-TY-2",
+        "commission": "20%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "6,575",
+        "yearly_sales": "5w~10w 16,389",
+        "conversion_rate": "10%~15%",
         "sales_channel": {
           "video": "72%",
           "live": "18%",
           "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000013",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "牙线棒超细家用清洁牙齿高拉力扁线剔牙线签剔牙",
+        "name": "2026新款家用扫把簸箕套装防风梳齿型扫地笤帚两件套",
+        "commission": "相似高佣 30%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "5,916",
+        "yearly_sales": "5w~10w 10,454",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "76%",
+          "live": "14%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【家庭实惠装】蓝漂厨房湿巾去油去腥大包80抽*3包家用清洁",
         "commission": "40%",
-        "monthly_sales": "5w+",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,831",
+        "yearly_sales": "5w~10w 7,272",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "82%",
+          "live": "10%",
+          "card": "8%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "优洁士小白鞋清洗神器一擦白去污增白去黄去氧化清洁护理剂",
+        "commission": "35%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,523",
+        "yearly_sales": "10w+ 25,782",
+        "conversion_rate": "30%+",
         "sales_channel": {
           "video": "85%",
           "live": "8%",
           "card": "7%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000014",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "沐浴露女男士香氛持久留香滋润保湿家庭装大瓶",
-        "commission": "28%",
-        "monthly_sales": "10w+",
+        "name": "日本叮叮驱蚊剂家用室内驱蚊神器蚊香液防蚊神器户外家庭驱蚊",
+        "commission": "蝉选 47%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,804",
+        "yearly_sales": "10w+ 35,426",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "74%",
+          "live": "16%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "康思嘉管道疏通粉强效分解厨房管道油污马桶堵塞地漏除臭去飞虫",
+        "commission": "蝉选 30%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,664",
+        "yearly_sales": "10w+ 296,068",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "80%",
+          "live": "10%",
+          "card": "10%"
+        },
+        "video_links": []
+      }
+    ],
+    "食品饮料": [
+      {
+        "name": "【五芳斋】鲜粽140g*8只多规格大肉粽双蛋黄五花肉粽豆沙粽蜜枣粽-D",
+        "commission": "相似高佣 15%  公开 0%",
+        "monthly_sales": "5w~10w",
+        "monthly_revenue": "12,337",
+        "yearly_sales": "10w+ 38,158",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "55%",
+          "live": "35%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "麦醉侠 湿凉皮7袋*310g/袋红油麻酱凉皮开袋即食现做现发",
+        "commission": "蝉选 24%  公开 5%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "9,627",
+        "yearly_sales": "10w+ 678,111",
+        "conversion_rate": "0%~5%",
         "sales_channel": {
           "video": "58%",
           "live": "30%",
           "card": "12%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000015",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "家居清洁": [
-      {
-        "name": "多功能平板拖把家用免手洗一拖净干湿两用地板清洁拖地",
-        "commission": "30%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "75%",
-          "live": "15%",
-          "card": "10%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000016",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "马桶清洁剂强力除垢去黄去异味洁厕灵家用卫生间清洁",
-        "commission": "32%",
-        "monthly_sales": "5w+",
+        "name": "【数量加到4下单】轻集西梅芭乐奇亚籽燕麦片营养早餐轻食独立包装",
+        "commission": "相似高佣 20%  公开 5%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "9,170",
+        "yearly_sales": "10w+ 47,641",
+        "conversion_rate": "30%+",
         "sales_channel": {
-          "video": "80%",
-          "live": "10%",
+          "video": "62%",
+          "live": "28%",
           "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000017",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "玻璃擦窗器双面清洁工具家用高层擦玻璃神器",
-        "commission": "28%",
-        "monthly_sales": "5w+",
+        "name": "斑马和蝉马黛茶阿里山高山茶乌龙茶冷泡茶夏日0脂0卡0糖",
+        "commission": "相似高佣 34%  公开 21%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "8,887",
+        "yearly_sales": "10w+ 56,370",
+        "conversion_rate": "30%+",
         "sales_channel": {
-          "video": "70%",
-          "live": "18%",
+          "video": "60%",
+          "live": "30%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【21年专注】沁州牌黄小米山西特产沁州黄小米月子米",
+        "commission": "蝉选 10%  公开 5%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "6,498",
+        "yearly_sales": "10w+ 257,303",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "50%",
+          "live": "38%",
           "card": "12%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000018",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "地板清洁剂瓷砖地砖清洁液去污拖地专用家用清香",
-        "commission": "35%",
-        "monthly_sales": "5w+",
+        "name": "隅田川 意式即溶浓缩黑咖啡液无蔗糖2条装尝鲜装冷萃速溶",
+        "commission": "蝉选 15%  公开 15%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "5,213",
+        "yearly_sales": "10w+ 88,646",
+        "conversion_rate": "15%~20%",
         "sales_channel": {
-          "video": "78%",
-          "live": "12%",
+          "video": "65%",
+          "live": "25%",
           "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000019",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "除霉剂家用墙面霉菌清除剂厨房卫生间除霉啫喱",
-        "commission": "33%",
-        "monthly_sales": "5w+",
+        "name": "上海特产万年青饼干葱香咸味酥性饼干休闲零食怀旧老字号",
+        "commission": "蝉选 15%  公开 15%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,591",
+        "yearly_sales": "5w~10w 15,080",
+        "conversion_rate": "30%+",
         "sales_channel": {
-          "video": "82%",
-          "live": "10%",
-          "card": "8%"
+          "video": "68%",
+          "live": "22%",
+          "card": "10%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000020",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "食品冲调": [
+        "video_links": []
+      },
       {
-        "name": "现磨咖啡粉阿拉比卡美式黑咖啡纯咖啡无添加蔗糖",
-        "commission": "25%",
-        "monthly_sales": "10w+",
+        "name": "【纯可可脂】麦丽丝 每日黑巧纯黑巧克力多口味零食",
+        "commission": "相似高佣 22%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,960",
+        "yearly_sales": "10w+ 107,410",
+        "conversion_rate": "15%~20%",
         "sales_channel": {
           "video": "55%",
           "live": "32%",
           "card": "13%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000021",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "即食燕麦片纯燕麦营养早餐代餐冲饮品速食麦片",
-        "commission": "28%",
-        "monthly_sales": "10w+",
+        "name": "九阳豆浆经典原味豆奶营养早餐植物蛋白饮料",
+        "commission": "蝉选 10%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,861",
+        "yearly_sales": "10w+ 140,574",
+        "conversion_rate": "30%+",
         "sales_channel": {
-          "video": "62%",
-          "live": "25%",
+          "video": "52%",
+          "live": "35%",
           "card": "13%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000022",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "每日坚果混合坚果仁零食大礼包孕妇儿童休闲食品",
-        "commission": "22%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "50%",
-          "live": "35%",
-          "card": "15%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000023",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "蜂蜜纯天然野生土蜂蜜农家自产洋槐蜜500g",
-        "commission": "30%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "68%",
-          "live": "20%",
-          "card": "12%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000024",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "黑芝麻糊核桃芝麻粉代餐早餐营养冲饮即食",
-        "commission": "32%",
-        "monthly_sales": "5w+",
-        "sales_channel": {
-          "video": "72%",
-          "live": "18%",
-          "card": "10%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000025",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      }
-    ],
-    "家纺布艺": [
-      {
-        "name": "纯棉毛巾吸水柔软洗脸巾家用成人全棉面巾情侣",
-        "commission": "30%",
-        "monthly_sales": "10w+",
-        "sales_channel": {
-          "video": "70%",
-          "live": "18%",
-          "card": "12%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000026",
-            "author": "",
-            "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "夏季空调被薄款夏凉被可水洗机洗冰丝凉感被子",
-        "commission": "25%",
-        "monthly_sales": "10w+",
+        "name": "冰泉纯豆浆粉无蔗糖无添加速溶营养早餐",
+        "commission": "蝉选 20%  公开 20%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,305",
+        "yearly_sales": "5w~10w 14,860",
+        "conversion_rate": "30%+",
         "sales_channel": {
           "video": "60%",
           "live": "28%",
           "card": "12%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000027",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
+      }
+    ],
+    "家居家纺": [
+      {
+        "name": "抢！窗帘扣磁吸扣遮光扣磁性窗帘闭合固定扣免钉免缝家用宿舍遮光",
+        "commission": "20%",
+        "monthly_sales": "5w~10w",
+        "monthly_revenue": "18,189",
+        "yearly_sales": "10w+ 21,397",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": []
       },
       {
-        "name": "乳胶枕颈椎枕头护颈枕成人睡觉专用枕头",
-        "commission": "28%",
-        "monthly_sales": "5w+",
+        "name": "【先生推荐】正品青龙图贴纸槽靠窗水龙头上使用直径8厘米一贴即可",
+        "commission": "蝉选 62%  公开 50%",
+        "monthly_sales": "5w~10w",
+        "monthly_revenue": "12,681",
+        "yearly_sales": "10w+ 143,833",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "80%",
+          "live": "12%",
+          "card": "8%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【自然故事】夏季新款冰豆豆凉席小冰熊凉感软凉席可折叠机洗",
+        "commission": "蝉选 12%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "5,165",
+        "yearly_sales": "10w+ 151,364",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "30%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "2026夏季新款冰豆豆凉席防滑透气夏季专用清凉必备",
+        "commission": "蝉选 13%  公开 12%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,167",
+        "yearly_sales": "10w+ 98,199",
+        "conversion_rate": "10%~15%",
         "sales_channel": {
           "video": "55%",
           "live": "32%",
           "card": "13%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000028",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "床上四件套全棉纯棉被套床单枕套水洗棉简约",
-        "commission": "22%",
-        "monthly_sales": "5w+",
+        "name": "2026夏季冰丝凉席三件套可折叠软席子空调席",
+        "commission": "蝉选 15%  公开 15%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,895",
+        "yearly_sales": "10w+ 76,432",
+        "conversion_rate": "10%~15%",
         "sales_channel": {
-          "video": "48%",
-          "live": "38%",
-          "card": "14%"
+          "video": "60%",
+          "live": "28%",
+          "card": "12%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000029",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
       },
       {
-        "name": "冰丝凉席三件套夏季可折叠软席子空调席",
-        "commission": "26%",
-        "monthly_sales": "5w+",
+        "name": "日本【防勾丝】水晶冰丝光腿神器超自然裸感丝袜女夏季",
+        "commission": "相似高佣 31%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,776",
+        "yearly_sales": "10w+ 68,924",
+        "conversion_rate": "15%~20%",
         "sales_channel": {
           "video": "65%",
-          "live": "22%",
+          "live": "25%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "纯棉毛巾吸水柔软洗脸巾家用成人全棉面巾情侣毛巾",
+        "commission": "蝉选 30%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,450",
+        "yearly_sales": "10w+ 156,721",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "18%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "夏季空调被薄款夏凉被可水洗机洗冰丝凉感被子",
+        "commission": "蝉选 25%  公开 25%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,108",
+        "yearly_sales": "10w+ 89,432",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "60%",
+          "live": "28%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "国A级遮光窗帘成品全遮光卧室隔热防晒挂钩式",
+        "commission": "蝉选 13%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,978",
+        "yearly_sales": "5w~10w 12,543",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "50%",
+          "live": "38%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "乳胶枕颈椎枕头护颈枕成人睡觉专用枕头",
+        "commission": "相似高佣 28%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,876",
+        "yearly_sales": "10w+ 67,890",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "55%",
+          "live": "32%",
           "card": "13%"
         },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7649234156000000030",
-            "author": "",
-            "desc": ""
-          }
-        ]
+        "video_links": []
+      }
+    ],
+    "厨卫家电": [
+      {
+        "name": "【个位数抢50个】家用餐桌饭菜保温套铝箔恒温罩厨房保鲜隔保温",
+        "commission": "相似高佣 40%  公开 35%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "7,601",
+        "yearly_sales": "10w+ 53,867",
+        "conversion_rate": "25%~30%",
+        "sales_channel": {
+          "video": "75%",
+          "live": "15%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "新料食品包装袋保鲜袋外卖塑料袋耐用食品袋背心式一次性家用",
+        "commission": "相似高佣 15%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,571",
+        "yearly_sales": "10w+ 145,952",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "保鲜膜套【500只】食品级一次性保鲜罩防尘保鲜罩【翻盖抽取式】闪购",
+        "commission": "蝉选 20%  公开 20%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,422",
+        "yearly_sales": "10w+ 174,792",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "78%",
+          "live": "12%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【一盒顶六盒】巧媳妇家用不锈钢剪刀厨房专用多功能剪骨刀",
+        "commission": "蝉选 31%  公开 31%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,201",
+        "yearly_sales": "10w+ 76,543",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "74%",
+          "live": "16%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "保鲜盒食品级冰箱收纳盒塑料水果蔬菜盒带盖防串味可叠加",
+        "commission": "相似高佣 26%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,098",
+        "yearly_sales": "10w+ 54,321",
+        "conversion_rate": "25%~30%",
+        "sales_channel": {
+          "video": "68%",
+          "live": "22%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "不锈钢保温饭盒多层带提手便当盒学生上班族餐盒",
+        "commission": "蝉选 24%  公开 24%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,876",
+        "yearly_sales": "5w~10w 12,345",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "62%",
+          "live": "26%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【升级款】多功能切菜器厨房切丝切片神器家用刨丝器",
+        "commission": "相似高佣 28%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,765",
+        "yearly_sales": "5w~10w 8,901",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "76%",
+          "live": "14%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "一次性厨房纸巾吸油纸厨房用纸家用大卷擦手纸",
+        "commission": "蝉选 25%  公开 25%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,654",
+        "yearly_sales": "10w+ 98,765",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "80%",
+          "live": "10%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "304不锈钢厨房挂钩免打孔壁挂置物架锅盖架",
+        "commission": "相似高佣 30%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,543",
+        "yearly_sales": "5w~10w 7,654",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "20%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "家用擀面杖大号不粘擀面杖饺子皮神器面食工具",
+        "commission": "蝉选 32%  公开 32%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,432",
+        "yearly_sales": "1w~2.5w 3,210",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "78%",
+          "live": "12%",
+          "card": "10%"
+        },
+        "video_links": []
+      }
+    ],
+    "美妆护肤": [
+      {
+        "name": "【杨迪推荐】温博士B5水细毛孔控油提亮维稳屏障换季补水",
+        "commission": "相似高佣 20%  公开 1%",
+        "monthly_sales": "5w~10w",
+        "monthly_revenue": "10,300",
+        "yearly_sales": "10w+ 620,663",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "60%",
+          "live": "30%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【徐璐秋瓷炫推荐】eiio水光面膜补水保湿透亮嫩肤紧致抗皱滋养",
+        "commission": "相似高佣 28%  公开 5%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "7,657",
+        "yearly_sales": "10w+ 807,959",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "32%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【蔡徐坤代言】BUV绿泥洗面奶控油细腻毛孔清洁黑头闭口男女通用",
+        "commission": "相似高佣 34%  公开 5%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "5,439",
+        "yearly_sales": "10w+ 953,801",
+        "conversion_rate": "0%~5%",
+        "sales_channel": {
+          "video": "55%",
+          "live": "35%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【9,9两盒】ROOBOO奶咖粉扑棉花糖气垫粉扑粉底液专用干湿两用皮面",
+        "commission": "蝉选 44%  公开 40%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "5,092",
+        "yearly_sales": "10w+ 27,129",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【徐璐同款】RNW抛光洗面奶抗氧提亮卸妆去黑头控油温和不刺激",
+        "commission": "相似高佣 26%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,952",
+        "yearly_sales": "10w+ 621,467",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "62%",
+          "live": "28%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【任选2件99】温博士水杨酸面膜清洁黑头粉刺细致毛孔焕肤",
+        "commission": "相似高佣 30%  公开 0%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,876",
+        "yearly_sales": "10w+ 456,789",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "32%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "纽西之谜清洁泥膜火山泥面膜深层清洁去黑头粉刺",
+        "commission": "相似高佣 25%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,543",
+        "yearly_sales": "10w+ 345,678",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "56%",
+          "live": "34%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "柏瑞美定妆喷雾持久锁妆控油不脱妆补水保湿",
+        "commission": "相似高佣 32%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,321",
+        "yearly_sales": "10w+ 234,567",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "60%",
+          "live": "30%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "半亩花田身体乳女全身滋润保湿补水美白持久留香",
+        "commission": "蝉选 30%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,123",
+        "yearly_sales": "10w+ 567,890",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "62%",
+          "live": "28%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "且初椰子油护发精油女改善毛躁烫染修护",
+        "commission": "相似高佣 22%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,987",
+        "yearly_sales": "10w+ 345,678",
+        "conversion_rate": "20%~25%",
+        "sales_channel": {
+          "video": "64%",
+          "live": "26%",
+          "card": "10%"
+        },
+        "video_links": []
+      }
+    ],
+    "运动户外": [
+      {
+        "name": "【现货+发货快】冰丝速干裤春夏季裤子运动裤薄款男女同款透气2026",
+        "commission": "蝉选 10%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,391",
+        "yearly_sales": "10w+ 93,509",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "52%",
+          "live": "38%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【四件套】维动夏季短袖四件套透气运动潮流百搭美式T恤",
+        "commission": "蝉选 15%  公开 15%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,591",
+        "yearly_sales": "10w+ 34,610",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "48%",
+          "live": "40%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【明星同款】booooka轻曲线负重手环可拆卸晓负重手环",
+        "commission": "蝉选 13.5%  公开 12%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,193",
+        "yearly_sales": "10w+ 36,907",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "68%",
+          "live": "22%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【黄圣依明星推荐】第五代瑜伽球【新升级凸点按摩】盆底肌普拉提球",
+        "commission": "35%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,800",
+        "yearly_sales": "1w~2.5w 4,280",
+        "conversion_rate": "25%~30%",
+        "sales_channel": {
+          "video": "65%",
+          "live": "25%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "弹力带阻力带拉力带弹力绳健身男女引体向上居家健身好物训练拉伸",
+        "commission": "21%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,705",
+        "yearly_sales": "10w+ 156,721",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "20%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【新款】Keep运动发带男女跑步健身吸汗导汗带",
+        "commission": "蝉选 25%  公开 25%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,654",
+        "yearly_sales": "5w~10w 12,345",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "家用运动瑜伽垫加厚防滑健身垫女初学者跳操垫",
+        "commission": "蝉选 18%  公开 18%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,543",
+        "yearly_sales": "10w+ 87,654",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "30%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "跳绳计数无绳款家用减肥燃脂运动器材智能计数",
+        "commission": "相似高佣 28%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,432",
+        "yearly_sales": "10w+ 56,789",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "75%",
+          "live": "15%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【李佳琦推荐】暴汗服女运动减肥出汗服男快速暴汗瘦身衣",
+        "commission": "30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,321",
+        "yearly_sales": "10w+ 34,567",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "55%",
+          "live": "35%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "护膝运动男女跑步膝盖保暖关节护具髌骨带",
+        "commission": "相似高佣 24%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,210",
+        "yearly_sales": "10w+ 45,678",
+        "conversion_rate": "25%~30%",
+        "sales_channel": {
+          "video": "60%",
+          "live": "30%",
+          "card": "10%"
+        },
+        "video_links": []
+      }
+    ],
+    "母婴用品": [
+      {
+        "name": "润本儿童面膜男女童可用宝宝补水保湿滋润晒后舒缓护肤小孩面膜",
+        "commission": "30%",
+        "monthly_sales": "2.5w~5w",
+        "monthly_revenue": "5,673",
+        "yearly_sales": "10w+ 68,416",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "62%",
+          "live": "28%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "贝德美电热蚊香液无烟无味定时加热器驱蚊液补充剂家用通用驱蚊器",
+        "commission": "蝉选 30%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,765",
+        "yearly_sales": "10w+ 304,131",
+        "conversion_rate": "5%~10%",
+        "sales_channel": {
+          "video": "68%",
+          "live": "22%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【香氛驱蚊】润本避蚊胺驱蚊喷雾防蚊液户外防蚊虫叮咬蚊怕水花露水",
+        "commission": "相似高佣 25%  公开 25%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,532",
+        "yearly_sales": "10w+ 190,507",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "贝德美儿童洗发水宝宝专用氨基酸无硅油洗发露蓬松去油柔顺留香",
+        "commission": "蝉选 30%  公开 30%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "4,497",
+        "yearly_sales": "10w+ 912,098",
+        "conversion_rate": "0%~5%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "32%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【孙俪同款任选12件】宝宝馋了爆款零食泡芙米饼溶豆果汁好礼",
+        "commission": "相似高佣 23%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,130",
+        "yearly_sales": "10w+ 755,007",
+        "conversion_rate": "30%+",
+        "sales_channel": {
+          "video": "55%",
+          "live": "35%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "babycare儿童湿巾大包80抽带盖加厚手口专用",
+        "commission": "蝉选 15%  公开 10%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "3,012",
+        "yearly_sales": "10w+ 234,567",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "60%",
+          "live": "30%",
+          "card": "10%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "bebebus婴儿腰凳背带四季通用抱娃神器新生儿",
+        "commission": "蝉选 20%  公开 15%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,876",
+        "yearly_sales": "5w~10w 12,345",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "50%",
+          "live": "38%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "十月结晶婴儿湿巾手口专用新生儿大包带盖",
+        "commission": "蝉选 18%  公开 15%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,765",
+        "yearly_sales": "10w+ 156,789",
+        "conversion_rate": "10%~15%",
+        "sales_channel": {
+          "video": "58%",
+          "live": "30%",
+          "card": "12%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "【自营】兔头妈妈儿童面霜宝宝润肤乳新生儿保湿补水",
+        "commission": "蝉选 22%  公开 22%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,654",
+        "yearly_sales": "10w+ 89,012",
+        "conversion_rate": "15%~20%",
+        "sales_channel": {
+          "video": "55%",
+          "live": "32%",
+          "card": "13%"
+        },
+        "video_links": []
+      },
+      {
+        "name": "戴可思儿童防晒霜宝宝物理防晒SPF30清爽不油腻",
+        "commission": "相似高佣 28%  公开 5%",
+        "monthly_sales": "1w~2.5w",
+        "monthly_revenue": "2,543",
+        "yearly_sales": "10w+ 67,890",
+        "conversion_rate": "20%~25%",
+        "sales_channel": {
+          "video": "62%",
+          "live": "28%",
+          "card": "10%"
+        },
+        "video_links": []
       }
     ]
   }
