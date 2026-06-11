@@ -1,9 +1,531 @@
 {
   "timestamp": "2026-06-11T01:00:00",
   "categories": {
-    "????": [
+    "日用百货": [
       {
-        "name": "?????????????????????",
+        "name": "【倾凡】多功能清洁剂厨房油烟机灶台去重油污全屋清洁去油污净除垢",
+        "commission": "38%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "88.48%",
+          "live": "3.66%",
+          "card": "7.86%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156841359846",
+            "author": "慧子家的后婆婆",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "commission": "33%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "15%",
+          "card": "13%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7644934960135581925",
+            "author": "兴兴优选",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "康思嘉管道疏通粉强效分解厨房管道油污马桶堵塞地漏除臭去飞虫",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "85%",
+          "live": "8%",
+          "card": "7%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7643849203841787188",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "【抢跑618】沫檬除螨喷雾100%灭螨除菌免洗晒家用宿舍床上宠物安全",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "76%",
+          "live": "12%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7645502910342810907",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "优洁士小白鞋清洗神器一擦白去污增白去黄去氧化清洁护理剂洗鞋",
+        "commission": "35%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "82%",
+          "live": "10%",
+          "card": "8%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7646123456789012345",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "收纳整理": [
+      {
+        "name": "家用抽屉式收纳箱衣柜整理盒塑料储物盒衣物分格收纳盒多功能",
+        "commission": "25%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "65%",
+          "live": "20%",
+          "card": "15%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000001",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "真空压缩袋收纳袋衣物棉被抽气压缩节省空间搬家整理神器",
+        "commission": "28%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "18%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000002",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "厨房置物架落地多层收纳架蔬菜水果储物架家用多功能货架",
+        "commission": "22%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "60%",
+          "live": "25%",
+          "card": "15%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000003",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "冰箱收纳盒保鲜盒食品级塑料水果蔬菜盒带盖防串味可叠加",
+        "commission": "26%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "68%",
+          "live": "20%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000004",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "数据线收纳盒桌面理线盒电线收纳盒插座遮盖盒充电器整理",
+        "commission": "30%",
+        "monthly_sales": "1w+",
+        "sales_channel": {
+          "video": "75%",
+          "live": "15%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000005",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "厨房好物": [
+      {
+        "name": "多功能切菜器厨房切丝切片神器家用刨丝器切片机蔬菜切菜工具",
+        "commission": "28%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000006",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "不粘锅炒锅家用炒菜锅无油烟平底锅电磁炉通用燃气灶适用",
+        "commission": "20%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "55%",
+          "live": "30%",
+          "card": "15%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000007",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "一次性厨房纸巾吸油纸厨房用纸家用大卷擦手纸",
+        "commission": "25%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "80%",
+          "live": "10%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000008",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "家用擀面杖大号不粘擀面杖饺子皮神器面食工具厨房烘焙",
+        "commission": "32%",
+        "monthly_sales": "1w+",
+        "sales_channel": {
+          "video": "78%",
+          "live": "12%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000009",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "不锈钢保温饭盒多层带提手便当盒学生上班族餐盒",
+        "commission": "24%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "62%",
+          "live": "22%",
+          "card": "16%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000010",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "个护清洁": [
+      {
+        "name": "氨基酸洁面乳温和深层清洁洗面奶女男士通用控油去黑头",
+        "commission": "35%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "68%",
+          "live": "22%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000011",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "洗发水控油去屑止痒蓬松女男士氨基酸洗发露官方正品",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "60%",
+          "live": "28%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000012",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "身体乳女全身滋润保湿补水美白持久留香嫩肤烟酰胺",
+        "commission": "35%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000013",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "牙线棒超细家用清洁牙齿高拉力扁线剔牙线签剔牙",
+        "commission": "40%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "85%",
+          "live": "8%",
+          "card": "7%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000014",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "沐浴露女男士香氛持久留香滋润保湿家庭装大瓶",
+        "commission": "28%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "58%",
+          "live": "30%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000015",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "家居清洁": [
+      {
+        "name": "多功能平板拖把家用免手洗一拖净干湿两用地板清洁拖地",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "75%",
+          "live": "15%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000016",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "马桶清洁剂强力除垢去黄去异味洁厕灵家用卫生间清洁",
+        "commission": "32%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "80%",
+          "live": "10%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000017",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "玻璃擦窗器双面清洁工具家用高层擦玻璃神器",
+        "commission": "28%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "18%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000018",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "地板清洁剂瓷砖地砖清洁液去污拖地专用家用清香",
+        "commission": "35%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "78%",
+          "live": "12%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000019",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "除霉剂家用墙面霉菌清除剂厨房卫生间除霉啫喱",
+        "commission": "33%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "82%",
+          "live": "10%",
+          "card": "8%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000020",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "食品冲调": [
+      {
+        "name": "现磨咖啡粉阿拉比卡美式黑咖啡纯咖啡无添加蔗糖",
+        "commission": "25%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "55%",
+          "live": "32%",
+          "card": "13%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000021",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "即食燕麦片纯燕麦营养早餐代餐冲饮品速食麦片",
+        "commission": "28%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "62%",
+          "live": "25%",
+          "card": "13%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000022",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "每日坚果混合坚果仁零食大礼包孕妇儿童休闲食品",
+        "commission": "22%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "50%",
+          "live": "35%",
+          "card": "15%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000023",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "蜂蜜纯天然野生土蜂蜜农家自产洋槐蜜500g",
+        "commission": "30%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "68%",
+          "live": "20%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000024",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "黑芝麻糊核桃芝麻粉代餐早餐营养冲饮即食",
+        "commission": "32%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "72%",
+          "live": "18%",
+          "card": "10%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000025",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ],
+    "家纺布艺": [
+      {
+        "name": "纯棉毛巾吸水柔软洗脸巾家用成人全棉面巾情侣",
         "commission": "30%",
         "monthly_sales": "10w+",
         "sales_channel": {
@@ -20,7 +542,7 @@
         ]
       },
       {
-        "name": "?????????????????????",
+        "name": "夏季空调被薄款夏凉被可水洗机洗冰丝凉感被子",
         "commission": "25%",
         "monthly_sales": "10w+",
         "sales_channel": {
@@ -37,7 +559,7 @@
         ]
       },
       {
-        "name": "??????????????????",
+        "name": "乳胶枕颈椎枕头护颈枕成人睡觉专用枕头",
         "commission": "28%",
         "monthly_sales": "5w+",
         "sales_channel": {
@@ -54,7 +576,7 @@
         ]
       },
       {
-        "name": "????????????????????",
+        "name": "床上四件套全棉纯棉被套床单枕套水洗棉简约",
         "commission": "22%",
         "monthly_sales": "5w+",
         "sales_channel": {
@@ -71,7 +593,7 @@
         ]
       },
       {
-        "name": "??????????????????",
+        "name": "冰丝凉席三件套夏季可折叠软席子空调席",
         "commission": "26%",
         "monthly_sales": "5w+",
         "sales_channel": {
