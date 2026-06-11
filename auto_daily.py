@@ -21,25 +21,34 @@ CATEGORIES = [
 ]
 
 def load_cache():
+    import requests
     try:
-        resp = requests.get(f"{API}/contents/cache/products.json", headers=HEADERS)
+        resp = requests.get(f"{API}/contents/cache/products.json", headers=HEADERS, timeout=15)
+        print(f"Cache HTTP: {resp.status_code}")
         if resp.status_code == 200:
-            return json.loads(base64.b64decode(resp.json()["content"]).decode("utf-8"))
-    except:
-        pass
+            data = resp.json()
+            raw = base64.b64decode(data["content"])
+            text = raw.decode("utf-8")
+            obj = json.loads(text)
+            cats = obj.get("categories", {})
+            print(f"Categories found: {list(cats.keys())}")
+            return obj
+    except Exception as e:
+        print(f"Cache error: {e}")
     return {"categories": {}, "timestamp": ""}
 
 def main():
     weekday = datetime.now(timezone.utc).weekday()
     today_cat = CATEGORIES[weekday]
-    print(f" 抖音日报 {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print("=" * 40)
+    print(f"Today: weekday={weekday}, label={today_cat['label']}")
+
     cache = load_cache()
     cat_data = cache.get("categories", {}).get(today_cat["label"], [])
+    print(f"cat_data len: {len(cat_data)}")
+
     if not cat_data:
-        print(f" {today_cat['label']} 无数据")
+        print("No data, will exit")
         return 1
-    print(f" {today_cat['icon']} {today_cat['label']}: {len(cat_data)} 个商品")
 
     def score(p):
         s = 0
@@ -57,7 +66,7 @@ def main():
 
     cat_data.sort(key=score, reverse=True)
     picked = cat_data[:3]
-    print(f" 精选 {len(picked)} 个")
+    print(f"Picked: {len(picked)}")
 
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     content = f"**抖音达人日报**\n{today_str} {today_cat['name']} | {today_cat['icon']} {today_cat['label']}\n7天7品类循环\n" + "━" * 15 + "\n\n"
@@ -81,9 +90,7 @@ def main():
             "content": content,
             "template": "markdown"
         })
-        print(f"PushPlus: {chr(10004) if resp.status_code == 200 else chr(10008)} - {resp.text[:100]}")
-
-    print("完成")
+        print(f"PushPlus: {resp.status_code} {resp.text[:80]}")
 
 if __name__ == "__main__":
     main()
