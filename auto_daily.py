@@ -119,7 +119,7 @@ def main():
     
     # 生成推送内容
     weekdays = ["周一","周二","周三","周四","周五","周六","周日"]
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.utcnow().strftime("%Y-%m-%d")  # UTC???????8?
     wd = weekdays[datetime.now().weekday()]
     
     content = f"📊 **抖音达人日报**\n📅 {today} {wd} | 品类: 日用百货\n━━━━━━━━━━━━━━━\n\n"
