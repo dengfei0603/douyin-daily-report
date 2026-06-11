@@ -1,154 +1,92 @@
 {
-  "products": [
-    {
-      "name": "康思嘉管道疏通粉强效分解厨房管道油污马桶堵塞地漏除臭去飞虫",
-      "rank": 3,
-      "commission": "30%",
-      "monthly_sales": "10w+",
-      "monthly_revenue": "¥32,851",
-      "yearly_sales": "100w+",
-      "yearly_revenue": "¥252,467",
-      "conversion_rate": "30%+",
-      "category": "日用百货",
-      "price_range": "12.9元",
-      "sales_channel": {
-        "video": "82%",
-        "live": "6%",
-        "card": "12%"
-      },
-      "sales_data": {
-        "last_3_days": "10w+",
-        "last_1_day": "5w~10w"
-      },
-      "video_links": [
-        {
-          "url": "https://www.douyin.com/video/7579144775446863033",
-          "author": "什么呱",
-          "desc": "真的喷哪里干净到哪里"
-        },
-        {
-          "url": "https://www.douyin.com/video/7648929390848489893",
-          "author": "宜文百货",
-          "desc": "倾凡多功能清洁剂"
-        }
-      ]
-    },
-    {
-      "name": "【抢跑618】沫檬除螨喷雾100%灭螨除菌免洗晒家用宿舍床上宠物安全",
-      "rank": 4,
-      "commission": "30%",
-      "monthly_sales": "10w+",
-      "monthly_revenue": "¥26,392",
-      "yearly_sales": "100w+",
-      "yearly_revenue": "¥653,477",
-      "conversion_rate": "30%+",
-      "category": "日用百货",
-      "price_range": "24.9元",
-      "sales_channel": {
-        "video": "80%",
-        "live": "8%",
-        "card": "12%"
-      },
-      "sales_data": {
-        "last_3_days": "10w+",
-        "last_1_day": "5w~10w"
-      },
-      "video_links": []
-    },
-    {
-      "name": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
-      "rank": 2,
-      "commission": "33%",
-      "monthly_sales": "10w+",
-      "monthly_revenue": "¥99,121",
-      "yearly_sales": "100w+",
-      "yearly_revenue": "¥1,562,557",
-      "conversion_rate": "15%~20%",
-      "category": "日用百货",
-      "price_range": "29.9元",
-      "sales_channel": {
-        "video": "75%",
-        "live": "12%",
-        "card": "13%"
-      },
-      "sales_data": {
-        "last_3_days": "10w+",
-        "last_1_day": "10w+"
-      },
-      "video_links": [
-        {
-          "url": "https://www.douyin.com/video/7647225798349612186",
-          "author": "金陵家居百货",
-          "desc": "家人们！厨房油污不用愁"
-        },
-        {
-          "url": "https://www.douyin.com/video/7648593214572782769",
-          "author": "许掌柜",
-          "desc": "厨房清洁新选择"
-        }
-      ]
-    },
-    {
-      "name": "【倾凡】多功能清洁剂厨房油烟机灶台去重油污全屋清洁去油污净除垢",
-      "rank": 1,
-      "commission": "38%",
-      "monthly_sales": "10w+",
-      "monthly_revenue": "¥26,134",
-      "yearly_sales": "100w+",
-      "yearly_revenue": "¥296,068",
-      "conversion_rate": "30%+",
-      "category": "日用百货",
-      "price_range": "19.9元",
-      "sales_channel": {
-        "video": "88.48%",
-        "live": "3.66%",
-        "card": "7.86%"
-      },
-      "sales_data": {
-        "last_3_days": "10w+ (6/8-6/10)",
-        "last_1_day": "1000~2500 (6/10)"
-      },
-      "video_links": [
-        {
-          "url": "https://www.douyin.com/video/7649234156841359846",
-          "author": "慧子家的后婆婆",
-          "desc": "这款多功能油污净性价比特别高，你家油污特别重的地方，用它清洗都能洁白如新"
-        },
-        {
-          "url": "https://www.douyin.com/video/7644934960135581925",
-          "author": "兴兴优选",
-          "desc": "有娃家庭必看！厨房清洁选它安全除菌还去油"
-        },
-        {
-          "url": "https://www.douyin.com/video/7644870673999360187",
-          "author": "兴兴优选",
-          "desc": "厨房油污难清理？喷一喷擦即净！还能除菌"
-        }
-      ]
-    },
-    {
-      "name": "【免抽气】家用立体收纳压缩袋抽压两用换季衣服棉被真空压缩收纳袋",
-      "rank": 5,
-      "commission": "20%",
-      "monthly_sales": "10w+",
-      "monthly_revenue": "¥24,184",
-      "yearly_sales": "100w+",
-      "yearly_revenue": "¥470,094",
-      "conversion_rate": "10%~15%",
-      "category": "日用百货",
-      "price_range": "29.9元",
-      "sales_channel": {
-        "video": "70%",
-        "live": "15%",
-        "card": "15%"
-      },
-      "sales_data": {
-        "last_3_days": "10w+",
-        "last_1_day": "5w~10w"
-      },
-      "video_links": []
-    }
-  ],
   "timestamp": "2026-06-11T01:00:00",
-  "source": "蝉妈妈月榜-日用百货-蝉选高佣"
+  "categories": {
+    "????": [
+      {
+        "name": "?????????????????????",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "70%",
+          "live": "18%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000026",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "?????????????????????",
+        "commission": "25%",
+        "monthly_sales": "10w+",
+        "sales_channel": {
+          "video": "60%",
+          "live": "28%",
+          "card": "12%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000027",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "??????????????????",
+        "commission": "28%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "55%",
+          "live": "32%",
+          "card": "13%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000028",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "????????????????????",
+        "commission": "22%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "48%",
+          "live": "38%",
+          "card": "14%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000029",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "??????????????????",
+        "commission": "26%",
+        "monthly_sales": "5w+",
+        "sales_channel": {
+          "video": "65%",
+          "live": "22%",
+          "card": "13%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649234156000000030",
+            "author": "",
+            "desc": ""
+          }
+        ]
+      }
+    ]
+  }
 }
