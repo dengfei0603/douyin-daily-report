@@ -1,4 +1,4 @@
-"""抖音日报 - 7天7品类循环版"""
+"""抖音日报 - 7天7品类循环版 v2（修复视频链接+真实脚本）"""
 import os, sys, json, re, base64, requests
 from datetime import datetime, timezone
 
@@ -10,9 +10,27 @@ PUSHPLUS_TOKEN = os.environ.get("PUSHPLUS_TOKEN", "")
 HEADERS = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 API = f"https://api.github.com/repos/{OWNER}/{REPO}"
 
-CATEGORIES = [{"day": 0, "name": "周一", "label": "日用百货", "icon": "🏠"}, {"day": 1, "name": "周二", "label": "食品饮料", "icon": "☕"}, {"day": 2, "name": "周三", "label": "家居家纺", "icon": "🛏️"}, {"day": 3, "name": "周四", "label": "厨卫家电", "icon": "🍳"}, {"day": 4, "name": "周五", "label": "美妆护肤", "icon": "🧴"}, {"day": 5, "name": "周六", "label": "运动户外", "icon": "🏃"}, {"day": 6, "name": "周日", "label": "母婴用品", "icon": "👶"}]
+CATEGORIES = [
+    {"day": 0, "name": "周一", "label": "日用百货", "icon": "🏠"},
+    {"day": 1, "name": "周二", "label": "食品饮料", "icon": "☕"},
+    {"day": 2, "name": "周三", "label": "家居家纺", "icon": "🛏"},
+    {"day": 3, "name": "周四", "label": "厨卫家电", "icon": "🍳"},
+    {"day": 4, "name": "周五", "label": "美妆护肤", "icon": "🧴"},
+    {"day": 5, "name": "周六", "label": "运动户外", "icon": "🏃"},
+    {"day": 6, "name": "周日", "label": "母婴用品", "icon": "👶"}
+]
 
-HOOKS = {"日用百货": "你家是不是也有这些清洁难题？", "食品饮料": "这个味道真的绝了！", "家居家纺": "换上之后档次瞬间提升！", "厨卫家电": "厨房小白也能轻松搞定！", "美妆护肤": "回购了10次的宝藏！", "运动户外": "不用去健身房！", "母婴用品": "后悔没早买的好东西！"}
+def make_script_from_video(name, desc):
+    """Generate script from real video description"""
+    n = name[:20]
+    d = desc[:50] if desc else "这款产品太好用了"
+    return (
+        f"【开头3秒】{d}，看完你也会心动！\n"
+        f"【5-10秒】今天给大家安利{n}\n"
+        f"【10-15秒】这个真的是抖音爆款，好多人都在用\n"
+        f"【15-25秒】品质好价格实惠，买到就是赚到\n"
+        f"【25-30秒】点击左下角小黄车，赶紧安排上！"
+    )
 
 def load_cache():
     try:
@@ -23,16 +41,11 @@ def load_cache():
         pass
     return {"categories": {}, "timestamp": ""}
 
-def make_script(name, label):
-    hook = HOOKS.get(label, "这款产品太好用了！")
-    n = name[:15]
-    return f"【开头3秒】{hook}\n【5-10秒】今天安利{n}\n【10-20秒】品质好/价格实惠/抖音爆款\n【20-25秒】点击左下角小黄车安排上！"
-
 def main():
     weekday = datetime.now(timezone.utc).weekday()
     today_cat = CATEGORIES[weekday]
-    print(f"抖音日报 {datetime.now().strftime('%Y-%m-%d %H:%M')} | {today_cat['name']} {today_cat['label']}")
-    print("=" * 40)
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    print(f"抖音日报 {today_str} | {today_cat['name']} {today_cat['label']}")
 
     cache = load_cache()
     cat_data = cache.get("categories", {}).get(today_cat["label"], [])
@@ -42,6 +55,7 @@ def main():
 
     print(f"{today_cat['icon']} {today_cat['label']}: {len(cat_data)} 个商品")
 
+    # Score and pick top 3
     def score(p):
         s = 0
         com = str(p.get("commission", ""))
@@ -54,31 +68,34 @@ def main():
 
     cat_data.sort(key=score, reverse=True)
     picked = cat_data[:3]
-    print(f"精选 {len(picked)} 个")
 
-    # Ensure scripts for all
-    for p in picked:
-        vids = p.get("video_links", [])
-        if not vids or not vids[0].get("script"):
-            p["video_links"] = [{"url": "", "script": make_script(p.get("name", ""), today_cat["label"])}]
-
-    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     sep = "━" * 15
     content = f"**抖音达人日报**\n{today_str} {today_cat['name']} | {today_cat['icon']} {today_cat['label']}\n7天7品类循环\n{sep}\n\n"
 
     for i, p in enumerate(picked):
         content += f"**#{i+1} {p.get('name', '')[:50]}**\n"
-        content += f"佣金 {p.get('commission', '-')}  |  视频数 {p.get('videoCount', '-')}\n"
+        content += f"佣金 {p.get('commission', '-')} | 视频数 {p.get('videoCount', '-')}\n"
+        
         vids = p.get("video_links", [])
         if vids:
-            url = vids[0].get("url", "")
-            if url:
-                content += f"🔗 {url}\n"
-            script_txt = vids[0].get("script", "")
-            if script_txt:
-                for line in script_txt.split("\n")[:4]:
-                    if line.strip():
-                        content += f"> {line.strip()}\n"
+            for j, v in enumerate(vids[:3]):
+                url = v.get("url", "")
+                if url:
+                    content += f"🔗 视频{j+1}: {url}\n"
+                desc = v.get("desc", "")
+                if desc:
+                    # Generate script from real description
+                    script = make_script_from_video(p.get("name", ""), desc)
+                    content += f"📝 脚本:\n"
+                    for line in script.split("\n"):
+                        if line.strip():
+                            content += f"> {line.strip()}\n"
+                    break  # Only use first video"s desc for script
+        else:
+            # Fallback script
+            n = p.get("name", "")[:15]
+            content += f"📝 脚本:\n> 【开头】今天给大家种草一款好物\n> 【5-15秒】{n}，真的超好用\n> 【15-25秒】品质好价格实惠，赶紧下单\n> 【25-30秒】点击左下角小黄车安排上\n"
+        
         content += "\n"
 
     content += f"{sep}\n每日自动推送 | 7天7品类循环"
@@ -91,8 +108,9 @@ def main():
             "template": "markdown"
         })
         print(f"PushPlus: {resp.status_code} {'OK' if resp.status_code == 200 else 'FAIL'}")
+        print(content[:200])
     else:
-        print("No token")
+        print("No PushPlus token")
 
 if __name__ == "__main__":
     main()
