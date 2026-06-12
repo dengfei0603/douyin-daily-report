@@ -2,123 +2,64 @@
   "categories": {
     "日用百货": [
       {
-        "name": "【艺考生力荐】俄罗斯热卖VC喷雾补水保湿全身可用官方正品旗舰店",
-        "commission": "15%",
-        "videoCount": "87",
-        "videoSales": "1w~2.5w 4,252",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "95%",
-          "live": "3%",
-          "card": "2%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7642642085006363930",
-            "author": "",
-            "desc": "",
-            "script": "【开头3秒】皮肤干的姐妹看过来！\\n【5-10秒】这款俄罗斯VC喷雾真的绝了，全身可用\\n【10-20秒】补水保湿效果超好，价格才几十块\\n【20-25秒】点击左下角小黄车，赶紧安排上！"
-          }
-        ]
-      },
-      {
-        "name": "【居家好物】超能香氛泡洗粉增白去黄爆炸盐除菌除螨婴幼儿可用mc",
-        "commission": "相似高佣29% 公开5%",
-        "videoCount": "47",
-        "videoSales": "1w~2.5w 2,550",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "92%",
-          "live": "5%",
-          "card": "3%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7539150121309883708",
-            "author": "",
-            "desc": "",
-            "script": "【开头3秒】洗衣粉还用传统的？试试这个爆炸盐！\\n【5-10秒】增白去黄除菌除螨一瓶搞定\\n【10-20秒】婴幼儿也能用，超温和\\n【20-25秒】点左下角带回家！"
-          }
-        ]
-      },
-      {
-        "name": "【免洗免晒】康思嘉全鞋泡泡干洗剂小白鞋免水洗免晾晒#春夏洗护#",
-        "commission": "相似高佣30% 公开20%",
-        "videoCount": "5",
-        "videoSales": "1w~2.5w 2,494",
-        "videoRevenue": "",
+        "name": "多功能清洁剂厨房油烟机灶台去重油污全屋清洁去油污净除垢",
+        "commission": "38%",
+        "monthly_sales": "10w+",
+        "videoCount": "15",
         "sales_channel": {
           "video": "88%",
-          "live": "8%",
-          "card": "4%"
+          "live": "4%",
+          "card": "8%"
         },
         "video_links": [
           {
-            "url": "https://www.douyin.com/video/7539150121309883708",
-            "script": "【开头3秒】你家是不是也有这个烦恼？\n【5-10秒】今天安利【免洗免晒】康思嘉全鞋泡泡干洗\n【10-20秒】品质好/价格实惠/抖音爆款\n【20-25秒】左下角小黄车安排上！"
-          },
-          {
-            "url": "https://www.douyin.com/video/7611973857666272531"
+            "url": "https://www.douyin.com/video/7649234156841359846",
+            "author": "慧子家的后婆婆",
+            "desc": "多功能油烟净性价比特别高"
           }
         ]
       },
       {
-        "name": "【买一发三】鞋子除臭喷雾去味杀菌纳米抑菌干洗鞋子去味神器",
-        "commission": "相似高佣35% 公开15%",
-        "videoCount": "42",
-        "videoSales": "5000~1w 1,872",
-        "videoRevenue": "",
+        "name": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用",
+        "commission": "33%",
+        "monthly_sales": "10w+",
+        "videoCount": "12",
         "sales_channel": {
-          "video": "90%",
-          "live": "6%",
-          "card": "4%"
+          "video": "72%",
+          "live": "15%",
+          "card": "13%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7644934960135581925",
+            "author": "兴兴优选",
+            "desc": "有娃家庭必看厨房清洁选它"
+          }
+        ]
       },
       {
-        "name": "管道疏通剂强力溶解厨房下水道油污厕所马桶地漏除臭",
-        "commission": "相似高佣33% 公开10%",
-        "videoCount": "18",
-        "videoSales": "5000~1w 1,654",
-        "videoRevenue": "",
+        "name": "康思嘉管道疏通粉强效分解厨房管道油污马桶堵塞地漏除臭",
+        "commission": "30%",
+        "monthly_sales": "10w+",
+        "videoCount": "8",
         "sales_channel": {
           "video": "85%",
-          "live": "10%",
-          "card": "5%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "【再晚点来都下播了！】6重洁净力洗衣凝珠 防臭留香",
-        "commission": "20%",
-        "videoCount": "52",
-        "videoSales": "2500~5000 1,432",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "87%",
           "live": "8%",
-          "card": "5%"
+          "card": "7%"
         },
-        "video_links": []
-      },
-      {
-        "name": "老管家杀蟑饵剂厨房家用室内除小强专用学生宿舍灭蟑螂杀虫剂神器",
-        "commission": "相似高佣38% 公开10%",
-        "videoCount": "25",
-        "videoSales": "2500~5000 1,345",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "82%",
-          "live": "12%",
-          "card": "6%"
-        },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7643849203841787188",
+            "author": "",
+            "desc": "管道疏通粉喷哪里干净到哪里"
+          }
+        ]
       }
     ],
     "食品饮料": [
       {
         "name": "【藤椒辣条组合】馋小乖麻辣条辣片湖南特产追剧小吃网红零食",
-        "commission": "相似高佣 30% 公开 5%",
+        "commission": "30%",
         "monthly_sales": "10w+",
         "videoCount": "25",
         "sales_channel": {
@@ -129,23 +70,16 @@
         "video_links": [
           {
             "url": "https://www.douyin.com/video/7479985005565955378",
-            "author": "",
             "desc": "馋小乖麻辣条辣片追剧零食"
           },
           {
             "url": "https://www.douyin.com/video/7637074744793173254",
-            "author": "",
             "desc": "湖南特产麻辣条"
-          },
-          {
-            "url": "https://www.douyin.com/video/7636622014946021568",
-            "author": "",
-            "desc": "追剧零食小吃"
           }
         ]
       },
       {
-        "name": "湘同学咸蛋黄虾尾酱湖南瓶装湘味家用拌面拌饭海鲜调料小龙虾酱",
+        "name": "湘同学咸蛋黄虾尾酱湖南瓶装湘味家用拌面拌饭海鲜调料",
         "commission": "25%",
         "monthly_sales": "5w+",
         "videoCount": "18",
@@ -157,18 +91,11 @@
         "video_links": [
           {
             "url": "https://www.douyin.com/video/7649666485308132651",
-            "author": "",
             "desc": "咸蛋黄与小龙虾的碰撞"
           },
           {
             "url": "https://www.douyin.com/video/7649279169762790710",
-            "author": "",
-            "desc": "三个各怀心思的人在农村玩盲盒吃饭挑战"
-          },
-          {
-            "url": "https://www.douyin.com/video/7649272328060226870",
-            "author": "",
-            "desc": "咸蛋黄味的虾尾酱你们尝过吗"
+            "desc": "农村玩盲盒吃饭挑战"
           }
         ]
       },
@@ -185,113 +112,74 @@
         "video_links": [
           {
             "url": "https://www.douyin.com/video/7643015271107595572",
-            "author": "张小云和阿玲",
-            "desc": "终于找到我的本命羽衣甘蓝了"
+            "desc": "终于找到我的本命羽衣甘蓝"
           },
           {
             "url": "https://www.douyin.com/video/7640162093250060723",
-            "author": "AnGeLa丹BB",
             "desc": "不愧爱豆推荐"
-          },
-          {
-            "url": "https://www.douyin.com/video/7642278273874971947",
-            "author": "张小云和阿玲",
-            "desc": "羽衣甘蓝邪修冲刺夏天"
           }
         ]
       }
     ],
     "家居家纺": [
       {
-        "name": "【先生推荐】正品青龙图贴纸槽靠窗水龙头上使用直径8厘米一贴即可",
-        "commission": "蝉选62% 公开50%",
-        "videoCount": "315",
-        "videoSales": "2500~5000 1,233",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "95%",
-          "live": "3%",
-          "card": "2%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "弥勒佛像挂画新中式办公室茶室玄关客厅装饰画入户门正对门卷轴",
-        "commission": "21%",
-        "videoCount": "9",
-        "videoSales": "2500~5000 741",
-        "videoRevenue": "",
+        "name": "正品青龙图贴纸槽靠窗水龙头上使用直径8厘米一贴即可",
+        "commission": "30%",
+        "monthly_sales": "5w+",
+        "videoCount": "10",
         "sales_channel": {
           "video": "85%",
           "live": "10%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "青龙图贴纸"
+          },
+          {
+            "url": "https://www.douyin.com/video/7648834578648931738",
+            "desc": "家居装饰贴纸"
+          },
+          {
+            "url": "https://www.douyin.com/video/7648618624958577317",
+            "desc": "防水背景自粘画"
+          }
+        ]
       },
       {
-        "name": "夏季新款A类冰豆豆小熊凉席凉豆豆软凉席可机洗空调卡通席子",
-        "commission": "蝉选17% 公开12%",
-        "videoCount": "18",
-        "videoSales": "2500~5000 704",
-        "videoRevenue": "",
+        "name": "五星小红旗中控台内饰香薰办公桌装饰高档红旗客厅摆件",
+        "commission": "25%",
+        "monthly_sales": "1w+",
+        "videoCount": "8",
         "sales_channel": {
           "video": "80%",
           "live": "15%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "红旗客厅摆件"
+          }
+        ]
       },
       {
-        "name": "抢！窗帘扣磁吸扣遮光扣磁性窗帘闭合固定扣免钉免缝家用宿舍遮光",
-        "commission": "20%",
-        "videoCount": "23",
-        "videoSales": "1000~2500 654",
-        "videoRevenue": "",
+        "name": "荷花净秽图去秽墙贴装饰画卫生间厨房厕所门防水背景自粘画",
+        "commission": "28%",
+        "monthly_sales": "1w+",
+        "videoCount": "6",
         "sales_channel": {
-          "video": "90%",
-          "live": "6%",
-          "card": "4%"
+          "video": "82%",
+          "live": "12%",
+          "card": "6%"
         },
-        "video_links": []
-      },
-      {
-        "name": "【自然故事】夏季新款冰豆豆凉席小冰熊凉感软凉席可折叠机洗",
-        "commission": "蝉选12% 公开10%",
-        "videoCount": "45",
-        "videoSales": "1000~2500 598",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "78%",
-          "live": "17%",
-          "card": "5%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "纯棉毛巾吸水柔软洗脸巾家用成人全棉面巾情侣毛巾",
-        "commission": "蝉选30% 公开30%",
-        "videoCount": "67",
-        "videoSales": "1000~2500 543",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "88%",
-          "live": "8%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "日本【防勾丝】水晶冰丝光腿神器超自然裸感丝袜女夏季",
-        "commission": "相似高佣31% 公开10%",
-        "videoCount": "34",
-        "videoSales": "1000~2500 498",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "85%",
-          "live": "10%",
-          "card": "5%"
-        },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "荷花净秽图墙贴"
+          }
+        ]
       }
     ],
     "厨卫家电": [
@@ -419,7 +307,7 @@
     "美妆护肤": [
       {
         "name": "MISTINE蜜丝婷小凉喷持久高倍防晒美白喷雾多效便携",
-        "commission": "相似高佣 25% 公开 5%",
+        "commission": "25%",
         "monthly_sales": "10w+",
         "videoCount": "133",
         "sales_channel": {
@@ -436,28 +324,17 @@
           {
             "url": "https://www.douyin.com/video/7638538381534728138",
             "author": "阿唐",
-            "desc": "喷起来冰冰凉凉的巨舒服，关键妆后喷也不花妆"
+            "desc": "喷起来冰冰凉凉的关键妆后喷也不花妆"
           },
           {
             "url": "https://www.douyin.com/video/7643361594491358181",
-            "author": "",
             "desc": "新出的小凉喷真的冰凉又舒服"
-          },
-          {
-            "url": "https://www.douyin.com/video/7643684060766995953",
-            "author": "张尚恩",
-            "desc": "马上就要飙到30度了，再不喷防晒就真的来不及了"
-          },
-          {
-            "url": "https://www.douyin.com/video/7638569674703562954",
-            "author": "拧拧",
-            "desc": "蜜丝婷这个小凉喷终于补货了"
           }
         ]
       },
       {
         "name": "【抗氧化面霜】RNW面霜保湿抗皱紧致润肤霜妆前贴贴霜四季护肤品",
-        "commission": "相似高佣 31% 公开 0%",
+        "commission": "31%",
         "monthly_sales": "10w+",
         "videoCount": "29",
         "sales_channel": {
@@ -478,24 +355,13 @@
           },
           {
             "url": "https://www.douyin.com/video/7641207364867094464",
-            "author": "欧气小椰子",
             "desc": "简直是熬夜灭黄的真神"
-          },
-          {
-            "url": "https://www.douyin.com/video/7641207902963775439",
-            "author": "欧气小椰子",
-            "desc": "抗氧成功后才发现没有天生黑皮"
-          },
-          {
-            "url": "https://www.douyin.com/video/7626372430659848613",
-            "author": "元气少女喵喵",
-            "desc": "这个抗氧厚敷有多好用"
           }
         ]
       },
       {
         "name": "【一笔双头】三资堂双头卧蚕笔提亮阴影二合一立体打造妈生感卧蚕",
-        "commission": "相似高佣 40% 公开 5%",
+        "commission": "40%",
         "monthly_sales": "10w+",
         "videoCount": "34",
         "sales_channel": {
@@ -516,18 +382,7 @@
           },
           {
             "url": "https://www.douyin.com/video/7645286089850599827",
-            "author": "酒窝爱分享",
             "desc": "这么自然嘭弹的卧蚕笔"
-          },
-          {
-            "url": "https://www.douyin.com/video/7645287131358697571",
-            "author": "潘二礼",
-            "desc": "真的一笔就嘭起来了"
-          },
-          {
-            "url": "https://www.douyin.com/video/7627409943449215464",
-            "author": "舒悦2.0",
-            "desc": "肉欲感卧蚕手拿把掐"
           }
         ]
       }
@@ -535,7 +390,7 @@
     "运动户外": [
       {
         "name": "【大漠叔叔】际华体能服运动休闲短袖训练服男夏季跑步衣健身T恤套装",
-        "commission": "相似高佣 25% 公开 0%",
+        "commission": "25%",
         "monthly_sales": "5w+",
         "videoCount": "31",
         "sales_channel": {
@@ -547,27 +402,17 @@
           {
             "url": "https://www.douyin.com/video/7645336999016326758",
             "author": "大漠叔叔",
-            "desc": "漠叔推荐的际华体能训练T恤，面料亲肤柔软透气不闷"
+            "desc": "际华体能训练T恤面料亲肤柔软"
           },
           {
             "url": "https://www.douyin.com/video/7643715499410378022",
-            "author": "大漠叔（小卖铺）",
-            "desc": "我在原单位穿的体能服，少了个标，面料一模一样"
+            "author": "大漠叔",
+            "desc": "原单位穿的体能服面料一模一样"
           },
           {
             "url": "https://www.douyin.com/video/7641612405299211630",
             "author": "大漠叔叔",
-            "desc": "你们要的体能训练T恤来了，越穿越软越洗越柔"
-          },
-          {
-            "url": "https://www.douyin.com/video/7646015737479351561",
-            "author": "大漠叔叔的小卖铺",
-            "desc": "际华正品速干短袖体能服，单向导湿面料"
-          },
-          {
-            "url": "https://www.douyin.com/video/7644131774632594714",
-            "author": "大漠叔叔的小卖铺",
-            "desc": "正品际华体能训练服，快速吸湿快速排汗"
+            "desc": "越穿越软越洗越柔的体能训练T恤"
           }
         ]
       },
@@ -584,8 +429,7 @@
         "video_links": [
           {
             "url": "https://www.douyin.com/video/7645271204567252666",
-            "author": "曦曦精选",
-            "desc": "颈部按摩枕家用舒缓颈肩压力"
+            "desc": "颈部按摩枕家用"
           }
         ]
       },
@@ -602,27 +446,10 @@
         "video_links": [
           {
             "url": "https://www.douyin.com/video/7649003157738027200",
-            "author": "曼丽生活日常",
-            "desc": "电动车充气泵好物推荐有车必备"
+            "desc": "电动车充气泵好物推荐"
           },
           {
             "url": "https://www.douyin.com/video/7648953180713760741",
-            "author": "慧儿呀",
-            "desc": "充气泵电动车充气泵车载充气泵"
-          },
-          {
-            "url": "https://www.douyin.com/video/7649719843609047417",
-            "author": "点缀文化",
-            "desc": "充气泵电动车充气泵车载充气泵超便宜超划算"
-          },
-          {
-            "url": "https://www.douyin.com/video/7650002780182121762",
-            "author": "点缀有好物",
-            "desc": "充气泵电动车充气泵车载充气泵"
-          },
-          {
-            "url": "https://www.douyin.com/video/7650000763451723023",
-            "author": "点缀有好物",
             "desc": "充气泵电动车充气泵"
           }
         ]
@@ -630,97 +457,57 @@
     ],
     "母婴用品": [
       {
-        "name": "润本儿童面膜男女童可用宝宝补水保湿滋润晒后舒缓护肤小孩面膜",
-        "commission": "30%",
-        "videoCount": "12",
-        "videoSales": "1000~2500 876",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "88%",
-          "live": "8%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "贝德美电热蚊香液无烟无味定时加热器驱蚊液补充剂家用通用驱蚊器",
-        "commission": "蝉选30% 公开30%",
-        "videoCount": "45",
-        "videoSales": "1000~2500 765",
-        "videoRevenue": "",
+        "name": "艾草驱蚊夏季夏凉可机洗薄荷凉感丝母婴可垫腰枕舒适护腰枕",
+        "commission": "25%",
+        "monthly_sales": "5w+",
+        "videoCount": "15",
         "sales_channel": {
           "video": "85%",
-          "live": "10%",
+          "live": "8%",
+          "card": "7%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "艾草驱蚊夏凉枕"
+          }
+        ]
+      },
+      {
+        "name": "【薄荷舒缓膏】夏天宝宝必备温和快速清凉舒缓蚊叮热痱不适",
+        "commission": "30%",
+        "monthly_sales": "5w+",
+        "videoCount": "12",
+        "sales_channel": {
+          "video": "88%",
+          "live": "7%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "宝宝必备薄荷舒缓膏"
+          }
+        ]
       },
       {
-        "name": "【香氛驱蚊】润本避蚊胺驱蚊喷雾防蚊液户外防蚊虫叮咬蚊怕水花露水",
-        "commission": "相似高佣25% 公开25%",
-        "videoCount": "38",
-        "videoSales": "1000~2500 698",
-        "videoRevenue": "",
+        "name": "钛钢耳饰天使之翼翅膀耳钉耳骨夹氛围感儿童服饰耳饰",
+        "commission": "35%",
+        "monthly_sales": "1w+",
+        "videoCount": "8",
         "sales_channel": {
           "video": "90%",
-          "live": "6%",
-          "card": "4%"
+          "live": "5%",
+          "card": "5%"
         },
-        "video_links": []
-      },
-      {
-        "name": "贝德美儿童洗发水宝宝专用氨基酸无硅油洗发露蓬松去油柔顺留香",
-        "commission": "蝉选30% 公开30%",
-        "videoCount": "56",
-        "videoSales": "1000~2500 654",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "82%",
-          "live": "14%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "【孙俪同款任选12件】宝宝馋了爆款零食泡芙米饼溶豆果汁好礼",
-        "commission": "相似高佣23% 公开5%",
-        "videoCount": "28",
-        "videoSales": "1000~2500 598",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "85%",
-          "live": "11%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "babycare儿童湿巾大包80抽带盖加厚手口专用",
-        "commission": "蝉选15% 公开10%",
-        "videoCount": "89",
-        "videoSales": "5000~1w 1,432",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "90%",
-          "live": "7%",
-          "card": "3%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "戴可思儿童防晒霜宝宝物理防晒SPF30清爽不油腻",
-        "commission": "相似高佣28% 公开5%",
-        "videoCount": "15",
-        "videoSales": "1000~2500 543",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "88%",
-          "live": "8%",
-          "card": "4%"
-        },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7648920544381832521",
+            "desc": "天使之翼耳钉"
+          }
+        ]
       }
     ]
   },
-  "timestamp": "2026-06-12T11:30:00"
+  "timestamp": "2026-06-12T12:00:00"
 }
