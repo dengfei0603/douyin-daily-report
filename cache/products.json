@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T08:00:00",
+  "timestamp": "2026-06-12T10:00:00",
   "categories": {
     "日用百货": [
       {
@@ -405,102 +405,118 @@
     ],
     "美妆护肤": [
       {
+        "name": "MISTINE蜜丝婷小凉喷持久高倍防晒美白喷雾多效便携",
+        "commission": "相似高佣 25% 公开 5%",
+        "monthly_sales": "10w+",
+        "videoCount": "133",
+        "sales_channel": {
+          "video": "95%",
+          "live": "3%",
+          "card": "2%"
+        },
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7641197384999034225",
+            "author": "然然吖",
+            "desc": "天气越来越热了，防晒真的要提前备上"
+          },
+          {
+            "url": "https://www.douyin.com/video/7638538381534728138",
+            "author": "阿唐",
+            "desc": "喷起来冰冰凉凉的巨舒服，关键妆后喷也不花妆"
+          },
+          {
+            "url": "https://www.douyin.com/video/7643361594491358181",
+            "author": "",
+            "desc": "新出的小凉喷真的冰凉又舒服"
+          },
+          {
+            "url": "https://www.douyin.com/video/7643684060766995953",
+            "author": "张尚恩",
+            "desc": "马上就要飙到30度了，再不喷防晒就真的来不及了"
+          },
+          {
+            "url": "https://www.douyin.com/video/7638569674703562954",
+            "author": "拧拧",
+            "desc": "蜜丝婷这个小凉喷终于补货了"
+          }
+        ]
+      },
+      {
         "name": "【抗氧化面霜】RNW面霜保湿抗皱紧致润肤霜妆前贴贴霜四季护肤品",
-        "commission": "相似高佣31% 公开0%",
-        "videoCount": "35",
-        "videoSales": "5000~1w 1,264",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "85%",
-          "live": "12%",
-          "card": "3%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "【心心恋恋】小星光大容量睫毛书狐系小薄片上镜单簇分段式睫毛",
-        "commission": "35%",
-        "videoCount": "14",
-        "videoSales": "2500~5000 1,170",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "90%",
-          "live": "7%",
-          "card": "3%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "Ulike【便携脱毛搭档】小贝壳刮毛刀私密修剪剃毛刮腿毛神器",
-        "commission": "蝉选9% 公开5%",
-        "videoCount": "34",
-        "videoSales": "2500~5000 1,165",
-        "videoRevenue": "",
+        "commission": "相似高佣 31% 公开 0%",
+        "monthly_sales": "10w+",
+        "videoCount": "29",
         "sales_channel": {
           "video": "92%",
           "live": "5%",
           "card": "3%"
         },
-        "video_links": []
-      },
-      {
-        "name": "【杨迪推荐】温博士B5水细毛孔控油提亮维稳屏障换季补水",
-        "commission": "相似高佣20% 公开1%",
-        "videoCount": "28",
-        "videoSales": "2500~5000 1,098",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "82%",
-          "live": "14%",
-          "card": "4%"
-        },
         "video_links": [
           {
-            "url": "https://www.douyin.com/video/7592879138597416073",
-            "author": "",
-            "desc": "",
-            "script": "【开头3秒】毛孔粗大的姐妹看过来！\\n【5-10秒】杨迪推荐的这款B5水真的绝了\\n【10-20秒】控油提亮维稳三效合一\\n【20-25秒】点击左下角购买同款！"
+            "url": "https://www.douyin.com/video/7640475840317492712",
+            "author": "欧气小椰子",
+            "desc": "抗氧成功后才知道的真相"
+          },
+          {
+            "url": "https://www.douyin.com/video/7641191917724962420",
+            "author": "好运小鱼",
+            "desc": "抗氧用的早，皮肤差不了"
+          },
+          {
+            "url": "https://www.douyin.com/video/7641207364867094464",
+            "author": "欧气小椰子",
+            "desc": "简直是熬夜灭黄的真神"
+          },
+          {
+            "url": "https://www.douyin.com/video/7641207902963775439",
+            "author": "欧气小椰子",
+            "desc": "抗氧成功后才发现没有天生黑皮"
+          },
+          {
+            "url": "https://www.douyin.com/video/7626372430659848613",
+            "author": "元气少女喵喵",
+            "desc": "这个抗氧厚敷有多好用"
           }
         ]
       },
       {
-        "name": "【徐璐同款】RNW抛光洗面奶抗氧提亮卸妆去黑头控油温和不刺激",
-        "commission": "相似高佣26% 公开5%",
-        "videoCount": "22",
-        "videoSales": "2500~5000 987",
-        "videoRevenue": "",
+        "name": "【一笔双头】三资堂双头卧蚕笔提亮阴影二合一立体打造妈生感卧蚕",
+        "commission": "相似高佣 40% 公开 5%",
+        "monthly_sales": "10w+",
+        "videoCount": "34",
         "sales_channel": {
-          "video": "85%",
-          "live": "11%",
+          "video": "90%",
+          "live": "6%",
           "card": "4%"
         },
-        "video_links": []
-      },
-      {
-        "name": "柏瑞美定妆喷雾持久锁妆控油不脱妆补水保湿",
-        "commission": "相似高佣32% 公开5%",
-        "videoCount": "18",
-        "videoSales": "1000~2500 876",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "88%",
-          "live": "8%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "半亩花田身体乳女全身滋润保湿补水美白持久留香",
-        "commission": "蝉选30% 公开30%",
-        "videoCount": "45",
-        "videoSales": "1000~2500 765",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "82%",
-          "live": "14%",
-          "card": "4%"
-        },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7646261884639133312",
+            "author": "舒悦2.0",
+            "desc": "普通人想要放大眼睛缩短中庭"
+          },
+          {
+            "url": "https://www.douyin.com/video/7645227651460150714",
+            "author": "莎莎",
+            "desc": "正面侧面都是又蓬又饱满"
+          },
+          {
+            "url": "https://www.douyin.com/video/7645286089850599827",
+            "author": "酒窝爱分享",
+            "desc": "这么自然嘭弹的卧蚕笔"
+          },
+          {
+            "url": "https://www.douyin.com/video/7645287131358697571",
+            "author": "潘二礼",
+            "desc": "真的一笔就嘭起来了"
+          },
+          {
+            "url": "https://www.douyin.com/video/7627409943449215464",
+            "author": "舒悦2.0",
+            "desc": "肉欲感卧蚕手拿把掐"
+          }
+        ]
       }
     ],
     "运动户外": [
