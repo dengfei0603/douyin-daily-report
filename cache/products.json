@@ -1,5 +1,4 @@
 {
-  "timestamp": "2026-06-12T11:00:00",
   "categories": {
     "日用百货": [
       {
@@ -118,74 +117,88 @@
     ],
     "食品饮料": [
       {
-        "name": "【数量改6下单】BoserMcark天然巴西莓粉固体饮料TL专属",
-        "commission": "相似高佣45% 公开5%",
-        "videoCount": "60",
-        "videoSales": "5000~1w 1,779",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "90%",
-          "live": "7%",
-          "card": "3%"
-        },
-        "video_links": [
-          {
-            "url": "https://www.douyin.com/video/7642642085006363930",
-            "script": "【开头3秒】这个味道真的绝了！\n【5-10秒】今天安利【数量改6下单】BoserMc\n【10-20秒】品质好/价格实惠/抖音爆款\n【20-25秒】左下角小黄车安排上！"
-          }
-        ]
-      },
-      {
-        "name": "小野轻煮干锅酱瓶装酱香微辣干锅鸡干锅虾干锅土豆片懒人调料",
-        "commission": "相似高佣21% 公开5%",
-        "videoCount": "19",
-        "videoSales": "5000~1w 1,254",
-        "videoRevenue": "",
+        "name": "【藤椒辣条组合】馋小乖麻辣条辣片湖南特产追剧小吃网红零食",
+        "commission": "相似高佣 30% 公开 5%",
+        "monthly_sales": "10w+",
+        "videoCount": "25",
         "sales_channel": {
           "video": "85%",
           "live": "10%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7479985005565955378",
+            "author": "",
+            "desc": "馋小乖麻辣条辣片追剧零食"
+          },
+          {
+            "url": "https://www.douyin.com/video/7637074744793173254",
+            "author": "",
+            "desc": "湖南特产麻辣条"
+          },
+          {
+            "url": "https://www.douyin.com/video/7636622014946021568",
+            "author": "",
+            "desc": "追剧零食小吃"
+          }
+        ]
       },
       {
-        "name": "麦醉侠湿凉皮7袋*310g/袋红油麻酱凉皮开袋即食现做现发",
-        "commission": "蝉选24% 公开5%",
-        "videoCount": "157",
-        "videoSales": "2500~5000 1,077",
-        "videoRevenue": "",
-        "sales_channel": {
-          "video": "88%",
-          "live": "8%",
-          "card": "4%"
-        },
-        "video_links": []
-      },
-      {
-        "name": "【五芳斋】鲜粽140g*8只多规格大肉粽双蛋黄五花肉粽豆沙粽",
-        "commission": "相似高佣15% 公开0%",
-        "videoCount": "12",
-        "videoSales": "2500~5000 986",
-        "videoRevenue": "",
+        "name": "湘同学咸蛋黄虾尾酱湖南瓶装湘味家用拌面拌饭海鲜调料小龙虾酱",
+        "commission": "25%",
+        "monthly_sales": "5w+",
+        "videoCount": "18",
         "sales_channel": {
           "video": "80%",
           "live": "15%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7649666485308132651",
+            "author": "",
+            "desc": "咸蛋黄与小龙虾的碰撞"
+          },
+          {
+            "url": "https://www.douyin.com/video/7649279169762790710",
+            "author": "",
+            "desc": "三个各怀心思的人在农村玩盲盒吃饭挑战"
+          },
+          {
+            "url": "https://www.douyin.com/video/7649272328060226870",
+            "author": "",
+            "desc": "咸蛋黄味的虾尾酱你们尝过吗"
+          }
+        ]
       },
       {
-        "name": "隅田川意式即溶浓缩黑咖啡液无蔗糖2条装尝鲜装冷萃速溶",
-        "commission": "蝉选15% 公开15%",
-        "videoCount": "38",
-        "videoSales": "2500~5000 876",
-        "videoRevenue": "",
+        "name": "BoserMcark羽衣甘蓝粉蔬菜粉高膳食纤维",
+        "commission": "35%",
+        "monthly_sales": "5w+",
+        "videoCount": "22",
         "sales_channel": {
-          "video": "82%",
-          "live": "13%",
+          "video": "90%",
+          "live": "5%",
           "card": "5%"
         },
-        "video_links": []
+        "video_links": [
+          {
+            "url": "https://www.douyin.com/video/7643015271107595572",
+            "author": "张小云和阿玲",
+            "desc": "终于找到我的本命羽衣甘蓝了"
+          },
+          {
+            "url": "https://www.douyin.com/video/7640162093250060723",
+            "author": "AnGeLa丹BB",
+            "desc": "不愧爱豆推荐"
+          },
+          {
+            "url": "https://www.douyin.com/video/7642278273874971947",
+            "author": "张小云和阿玲",
+            "desc": "羽衣甘蓝邪修冲刺夏天"
+          }
+        ]
       }
     ],
     "家居家纺": [
@@ -708,5 +721,6 @@
         "video_links": []
       }
     ]
-  }
+  },
+  "timestamp": "2026-06-12T11:30:00"
 }
