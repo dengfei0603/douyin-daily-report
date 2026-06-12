@@ -19,17 +19,14 @@ def load_cache():
         resp = requests.get(f"{API}/contents/cache/products.json", headers=HEADERS, timeout=15)
         if resp.status_code == 200:
             return json.loads(base64.b64decode(resp.json()["content"]).decode("utf-8"))
-    except Exception as e:
-        print(f"Cache load error: {e}")
+    except:
+        pass
     return {"categories": {}, "timestamp": ""}
 
 def make_script(name, label):
     hook = HOOKS.get(label, "这款产品太好用了！")
     n = name[:15]
-    return f"【开头3秒】{hook}
-【5-10秒】今天安利{n}
-【10-20秒】品质好/价格实惠/抖音爆款
-【20-25秒】点击左下角小黄车安排上！"
+    return f"【开头3秒】{hook}\n【5-10秒】今天安利{n}\n【10-20秒】品质好/价格实惠/抖音爆款\n【20-25秒】点击左下角小黄车安排上！"
 
 def main():
     weekday = datetime.now(timezone.utc).weekday()
