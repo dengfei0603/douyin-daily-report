@@ -1,8 +1,9 @@
-name: ??????
+name: 抖音达人日报
 
 on:
   schedule:
-    - cron: "0 0 * * *"       # Beijing 08:00 daily
+    - cron: "0 0 * * *"       # 北京 08:00
+    - cron: "0 1 * * *"       # 北京 09:00（备用）
   workflow_dispatch:
 
 permissions:
@@ -14,24 +15,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: ????
+    - name: 检出代码
       uses: actions/checkout@v4
     
-    - name: ??Python
+    - name: 设置Python
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
     
-    - name: ????
+    - name: 安装依赖
       run: pip install requests PyNaCl
     
-    - name: ????+????
+    - name: 自动采集+生成日报
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
       run: python auto_daily.py
     
-    - name: ????HTML
+    - name: 上传日报HTML
       uses: actions/upload-artifact@v4
       with:
         name: daily-report
