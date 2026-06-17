@@ -1,9 +1,6 @@
-name: 抖音达人日报
+﻿name: 抖音达人日报
 
 on:
-  schedule:
-    - cron: "0 0 * * *"       # 北京 08:00
-    - cron: "0 1 * * *"       # 北京 09:00（备用）
   workflow_dispatch:
 
 permissions:
